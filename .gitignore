@@ -1,0 +1,5 @@
+# Archivos temporales de Windows
+Thumbs.db
+
+# Carpetas de editores
+.vscode/
